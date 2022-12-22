@@ -1,5 +1,5 @@
 
-Catalog
+Invoice
 =====
 
 Navigate to Catalog Menu to manage product list.
