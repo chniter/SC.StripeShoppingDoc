@@ -2,6 +2,6 @@
 Orders
 =====
 
-Navigate to Catalog Menu to manage product list.
+To consult your orders, navigate to your profile and go to the last Tab "My Orders".
 
-If you have the Administrator Role, you can Add/Update/Delete Products.
+For each order you can download the attached invoice as PDF.
