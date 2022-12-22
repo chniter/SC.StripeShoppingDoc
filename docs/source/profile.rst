@@ -2,6 +2,4 @@
 Profile
 =====
 
-Navigate to Catalog Menu to manage product list.
-
-If you have the Administrator Role, you can Add/Update/Delete Products.
+Navigate to your profile by clicking to your Name and you will be able to update your personnal informations.
