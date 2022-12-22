@@ -5,7 +5,7 @@ Welcome to SC StripeShopping's documentation!
 
 It use *Microsot SQL Server Express* as database and *EntityFrameworkCore* Code First to manage Data and offers a *simple* and *intuitive* UI to start building a full eCommerce Website.
 
-Check out the :doc:`usage` section for further information, including
+Check out the :doc:`gettingstarted` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
@@ -17,5 +17,5 @@ Contents
 
 .. toctree::
 
-   usage
+   gettingstarted
    api
