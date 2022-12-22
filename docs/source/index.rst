@@ -5,8 +5,12 @@ Welcome to SC StripeShopping's documentation!
 
 It use *Microsot SQL Server Express* as database and *EntityFrameworkCore* Code First to manage Data and offers a *simple* and *intuitive* UI to start building a full eCommerce Website.
 
-Check out the :doc:`gettingstarted` section for further information, including
-how to :ref:`installation` the project.
+SC StripeShopping is an ASP.NET CORE MVC 6 Project that can be used to start building your eCommerce Website.
+The project implement the Shopping Cart process (Shopping - Checkout - Payment).
+The Shopping Cart persist on database and attached to the logged in User.
+Key Features:
+
+Check out the :doc:`gettingstarted` section for further information
 
 .. note::
 
@@ -18,4 +22,10 @@ Contents
 .. toctree::
 
    gettingstarted
-   api
+   catalog
+   profile
+   shoppingcart
+   checkout
+   stripepayment
+   invoice
+   orders
