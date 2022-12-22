@@ -1,7 +1,20 @@
 Getting Started
 =====
 
+SC StripeShopping is an ASP.NET CORE MVC 6 Project that can be used to start building your eCommerce Website.
 
+The project implement the Shopping Cart process (Shopping - Checkout - Payment).
+
+The Shopping Cart persist on database and attached to the logged in User.
+
+.. image:: images/1-solution.PNG
+:width: 600
+   
+.. image:: images/8-home.PNG
+:width: 600
+		
+.. image:: images/9-login.PNG
+:width: 600
 
 Key Features
 ------------
@@ -49,7 +62,11 @@ Before building the solution, make sure to have the correct parameters on the ap
 - **TwitterAuth** : Twitter Authentication ConsumerAPIKey and ConsumerSecret  
 - **InvoiceSettings** : Invoice Settings to use on PDF Invoice  
 
-
+.. image:: images/4-appsettings.PNG
+:width: 600
+		
+.. image:: images/3-config.PNG
+:width: 600
    
 Seed Data
 ------------
