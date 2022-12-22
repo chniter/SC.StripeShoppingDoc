@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+SC StripeShopping Documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Read the Documentation here:
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://sc-stripeshopping.readthedocs.io/en/latest/
