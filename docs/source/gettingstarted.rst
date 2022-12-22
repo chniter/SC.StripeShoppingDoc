@@ -39,7 +39,17 @@ Settings
 
 Before building the solution, make sure to have the correct parameters on the appsettings.json.
 
-Table to explain all paramters
+- **ConnectionStrings**  :  Default Connection String of the database 
+- **Stripe**  : Stripe SecretKey and PublishableKey 
+- **EmailCred**  : SMTP Email Credentials 
+- **SMTP** : SMTP Server settings 
+- **GoogleAuth**  : Google Authentication ClientId and ClientSecret  
+- **FacebookAuth**  : Facebook Authentication ClientId and ClientSecret  
+- **MicrosoftAuth** : Microsoft Authentication ClientId and ClientSecret  
+- **TwitterAuth** : Twitter Authentication ConsumerAPIKey and ConsumerSecret  
+- **InvoiceSettings** : Invoice Settings to use on PDF Invoice  
+
+
    
 Seed Data
 ------------
