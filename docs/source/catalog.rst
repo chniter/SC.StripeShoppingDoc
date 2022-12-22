@@ -1,3 +1,5 @@
+Catalog
+=====
 
 Navigate to Catalog Menu to manage product list.
 
