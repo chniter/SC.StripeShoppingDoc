@@ -2,6 +2,8 @@
 Shopping Cart
 =====
 
-Navigate to Catalog Menu to manage product list.
+Navigate to Home page and choose a product to buy.
 
-If you have the Administrator Role, you can Add/Update/Delete Products.
+After clicking Buy button, you will redirected to the Shopping Cart page.
+
+You can update each Product quantity and then Click Checkout to proceed to checkout.
