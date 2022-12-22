@@ -8,13 +8,12 @@ The project implement the Shopping Cart process (Shopping - Checkout - Payment).
 The Shopping Cart persist on database and attached to the logged in User.
 
 .. image:: images/1-solution.PNG
-:width: 600
    
 .. image:: images/8-home.PNG
-:width: 600
+	:width: 600
 		
 .. image:: images/9-login.PNG
-:width: 600
+	:width: 600
 
 Key Features
 ------------
